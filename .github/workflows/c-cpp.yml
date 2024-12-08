@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main(){ 
+  int n = 7;
+  
+  for(i = 6,i>=0,i--)
+    {
+    printf("");
+    }
+    for(k = 6,k>=0,k--)
+    {
+        printf(n-k);
+    }
+  return 0;
+}
