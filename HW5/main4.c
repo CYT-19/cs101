@@ -12,4 +12,5 @@ int main()
     printf("%d",10000*a+1000*e+100*c+10*d+1*b);
     printf("\n");
 
+    return 0;
 }
