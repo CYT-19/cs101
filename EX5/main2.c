@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  double Pi,t;
+  double Pi;
 
   for(int n = 0;n<=100;n++)
   {
